@@ -2,7 +2,7 @@
 
 🌌 **Custom Zsh Configuration by TheAnonymousCrusher** – This repository contains a highly customized `.zshrc` file designed to supercharge your Zsh shell experience. Inspired by Kali Linux aesthetics, it integrates Oh My Zsh, Powerlevel10k, and a suite of plugins, aliases, functions, and utilities for efficient system management, media handling, development workflows, and hardware monitoring. Whether you're a developer, sysadmin, or power user, this setup aims to make your terminal faster, more intuitive, and visually appealing.
 
-![Terminal Screenshot](https://via.placeholder.com/800x400?text=Custom+Zsh+Prompt+Example) <!-- Replace with an actual screenshot of the prompt in action for better visualization -->
+![Terminal Screenshot](screenshot.png) <!-- Replace with an actual screenshot of the prompt in action for better visualization -->
 
 ## Overview
 
