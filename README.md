@@ -1,6 +1,6 @@
-# Dotfiles README
+# CRUSHER ZSHRC
 
-🌌 **Custom Zsh Configuration by TheAnonymousCrusher** – This repository contains a highly customized `.zshrc` file designed to supercharge your Zsh shell experience. Inspired by Kali Linux aesthetics, it integrates Oh My Zsh, Powerlevel10k, and a suite of plugins, aliases, functions, and utilities for efficient system management, media handling, development workflows, and hardware monitoring. Whether you're a developer, sysadmin, or power user, this setup aims to make your terminal faster, more intuitive, and visually appealing.
+**Custom Zsh Configuration by TheAnonymousCrusher** – This repository contains a highly customized `.zshrc` file designed to supercharge your Zsh shell experience. Inspired by Kali Linux aesthetics, it integrates Oh My Zsh, Powerlevel10k, and a suite of plugins, aliases, functions, and utilities for efficient system management, media handling, development workflows, and hardware monitoring. Whether you're a developer, sysadmin, or power user, this setup aims to make your terminal faster, more intuitive, and visually appealing.
 
 ![Terminal Screenshot](screenshot.png) <!-- Replace with an actual screenshot of the prompt in action for better visualization -->
 
@@ -152,7 +152,7 @@ For optimal functionality:
 ## All-in-One Install Command (Arch/Yay)
 
 ```bash
-yay -S --needed --noconfirm oh-my-zsh powerlevel10k eza fzf bat neofetch figlet toilet lolcat upower lm-sensors brightnessctl xorg-xgamma power-profiles-daemon curl yt-dlp ffmpeg imagemagick libnotify-bin iw networkmanager p7zip unrar unzip tar bzip2 gzip fontconfig systemd pipewire pulseaudio wireplumber alsa-utils rfkill bluez bluez-utils flatpak python-pip neovim docker kitty mpv iproute2 bc fastfetch ruby-rails visualboyadvance-m code-oss chromium tgpt
+yay -S --needed --noconfirm oh-my-zsh powerlevel10k eza fzf bat neofetch figlet toilet lolcat upower lm-sensors brightnessctl xorg-xgamma power-profiles-daemon curl yt-dlp ffmpeg imagemagick libnotify-bin iw networkmanager p7zip unrar unzip tar bzip2 gzip fontconfig systemd pipewire pulseaudio wireplumber alsa-utils rfkill bluez bluez-utils flatpak python-pip neovim docker kitty mpv iproute2 bc fastfetch ruby-rails visualboyadvance-m code-oss chromium tgpt yt-nerddl
 ```
 
 - Post-install: Clone P10k, set font, enable services (`systemctl enable bluetooth networkmanager docker`).
